@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataParser",
+    "\\DataParser\\ArrayType",
+    "\\ShareObject",
+    "\\ShareObject\\ShareParsedData",
+    "\\ShareObject\\ShareParsedData\\TableRefType"
+  ],
+  "SelectedNode": "\\DataParser\\ArrayType\\CTableRefParser.cs",
+  "PreviewInSolutionExplorer": false
+}
